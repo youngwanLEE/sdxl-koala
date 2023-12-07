@@ -5,7 +5,7 @@
 </p>
 
 > **KOALA: Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis**<br>
-> [Youngwan Lee<sup>1,2</sup>](https://github.com/youngwanLEE), [Kwanyong Park<sup>1</sup>](https://pkyong95.github.io/), [Yoorhim Cho<sup>3</sup>](https://ofzlo.github.io/), [Young-Ju Lee<sup>1</sup>](https://scholar.google.com/citations?user=6goOQh8AAAAJ&hl=en), [Sung Ju Hwang<sup>2,4</sup>](http://www.sungjuhwang.com/) <br>
+> [Youngwan Lee](https://github.com/youngwanLEE)<sup>1,2</sup>, [Kwanyong Park](https://pkyong95.github.io/)<sup>1</sup>, [Yoorhim Cho](https://ofzlo.github.io/)<sup>3</sup>, [Young-Ju Lee](https://scholar.google.com/citations?user=6goOQh8AAAAJ&hl=en)<sup>1</sup>, [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>2,4</sup> <br>
 > <sup>1</sup>ETRI <sup>2</sup>KAIST, <sup>3</sup>SMWU, <sup>4</sup>DeepAuto.ai <br>
 
 ## Abstract
