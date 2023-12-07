@@ -5,12 +5,12 @@
 </p>
 
 > **KOALA: Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis**<br>
-> :classical_building:️️:school:[Youngwan Lee](https://github.com/youngwanLEE), :classical_building:️️[Kwanyong Park](https://pkyong95.github.io/),:school:️️[Yoorhim Cho](https://ofzlo.github.io/), :classical_building::[Young-Ju Lee](https://scholar.google.com/citations?user=6goOQh8AAAAJ&hl=en), :school:[Sung Ju Hwang](http://www.sungjuhwang.com/) <br>
-> ETRI:classical_building:️, KAIST, SMWU:school: <br>
+> 🏛️ 🏫[Youngwan Lee](https://github.com/youngwanLEE), :classical_building:️️[Kwanyong Park](https://pkyong95.github.io/), 🏫[Yoorhim Cho](https://ofzlo.github.io/), :classical_building::[Young-Ju Lee](https://scholar.google.com/citations?user=6goOQh8AAAAJ&hl=en), :school:[Sung Ju Hwang](http://www.sungjuhwang.com/) <br>
+> ETRI 🏛️, KAIST, SMWU 🏫 <br>
 
 ## Abstract
 ### TL;DR
-> We propose an fast text-to-image model, called KOALA, by compressing SDXL's U-Net and distilling knowledge from SDXL into our model. KOALA-700M can generate a 1024x1024 image in less than 1.5 seconds on an NVIDIA 4090 GPU, which is more than 2x faster than SDXL.
+> We propose a fast text-to-image model, called KOALA, by compressing SDXL's U-Net and distilling knowledge from SDXL into our model. KOALA-700M can generate a 1024x1024 image in less than 1.5 seconds on an NVIDIA 4090 GPU, which is more than 2x faster than SDXL.
 
 <details><summary>FULL abstract</summary>
 Stable diffusion is the mainstay of the text-to-image (T2I) synthesis in the community due to its generation performance and open-source nature. 
