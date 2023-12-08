@@ -1,7 +1,7 @@
 <!-- # KOALA: Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis -->
 
 <p align="left">
-  <img src="asset/github_logo.svg"  alt="logo" style="width: 100%; max-width: none;">
+  <img src="asset/github_logo.png"  alt="logo" style="width: 100%; max-width: none;">
 </p>
 
 > **KOALA: Self-Attention Matters in Knowledge Distillation of Latent Diffusion Models for Memory-Efficient and Fast Image Synthesis**<br>
