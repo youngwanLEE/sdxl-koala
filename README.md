@@ -12,9 +12,8 @@
 
 <a href="https://youngwanlee.github.io/KOALA/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a> &ensp;
 <a href="https://arxiv.org/abs/2312.04005"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:KOALA&color=red&logo=arxiv"></a> &ensp;
-<a href="https://colab.research.google.com/drive/1jWO_0WrXqTVLnOSOKfrfhpCjZyBuvmGg?usp=sharing"><img src="https://img.shields.io/static/v1?label=Free%20Trial&message=Google%20Colab&logo=google&color=yellow"></a> &ensp;
-
-
+<a href="https://colab.research.google.com/drive/1jWO_0WrXqTVLnOSOKfrfhpCjZyBuvmGg?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Demo In Colab"/>
 
 ## Abstract
 ### TL;DR
