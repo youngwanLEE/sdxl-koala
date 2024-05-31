@@ -15,6 +15,8 @@
 <a href="https://colab.research.google.com/drive/16gBq2J4fo8xCgmWaBvrqnEb-liAz6097?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Demo In Colab"/>
 </a> &ensp;
+<a href="https://huggingface.co/etri-vilab/koala-lightning-1b"><img src="https://img.shields.io/badge/Model-Checkpoints-blue"></a> &ensp;
+
 
 ## Abstract
 ### TL;DR
