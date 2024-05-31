@@ -45,6 +45,14 @@ We measured the inference time of SDXL-Turbo and KOALA-Turbo models at a resolut
 ![latency](asset/latency_memory_labels_anno_wide.png)
 
 
+## KOALA-Lightning 🤗 Model Cards
+
+|Model|link|
+|:--|:--|
+|koala-lightning-1b | https://huggingface.co/etri-vilab/koala-lightning-1b|
+|koala-lightning-700m | https://huggingface.co/etri-vilab/koala-lightning-700m|
+
+
 ## Inference with 🧨 diffusers
 
 
