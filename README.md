@@ -110,10 +110,10 @@ This work was supported by Institute of Information \& communications Technology
 
 ## 📖BibTeX
 ```bibtex
-  @article{Lee2023koala,
-          title={KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis}, 
-          author={Lee, Youngwan and Park, Kwanyong and Cho, Yoohrim and Lee, Yong Ju and Hwang, Sung Ju},
-          journal={arXiv preprint arXiv:2312.04005},
-          year={2023}
+  @inproceedings{Lee2024koala,
+          author    ={Lee, Youngwan and Park, Kwanyong and Cho, Yoohrim and Lee, Yong Ju and Hwang, Sung Ju},
+          title     ={KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis}, 
+          booktitle = {NeurIPS},
+          year      ={2024}
   }
 ```
