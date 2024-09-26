@@ -5,6 +5,7 @@
 </p>
 
 > **[KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis](http://arxiv.org/abs/2312.04005)**<br>
+> Conference on Neural Information Processing Systems (NeurIPS) 2024 <br>
 > [Youngwan Lee](https://github.com/youngwanLEE)<sup>1,2</sup>, [Kwanyong Park](https://pkyong95.github.io/)<sup>1</sup>, [Yoorhim Cho](https://ofzlo.github.io/)<sup>3</sup>, [Young-Ju Lee](https://scholar.google.com/citations?user=6goOQh8AAAAJ&hl=en)<sup>1</sup>, [Sung Ju Hwang](http://www.sungjuhwang.com/)<sup>2,4</sup> <br>
 > <sup>1</sup>ETRI <sup>2</sup>KAIST, <sup>3</sup>SMWU, <sup>4</sup>DeepAuto.ai <br>
 
