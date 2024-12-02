@@ -92,6 +92,16 @@ image.save("./example.png")
 
 ```
 
+## DEMO with gradio
+```
+python demo_gradio.py
+
+# if you want to denote the ip and port number, you can use the following command:
+
+python demo_gradio.py --ip xxx.xxx.xxx.xxx --port 8000
+```
+
+
 ## To-Do List
 
 - [x]  Inference code
