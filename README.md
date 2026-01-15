@@ -100,7 +100,8 @@ python demo_gradio.py
 
 python demo_gradio.py --ip xxx.xxx.xxx.xxx --port 8000
 ```
-
+## DEMO for Korean
+Please refer to [Korean colab demo](https://colab.research.google.com/drive/1PNxjrlJTbG7pOZ6aP-WqQEPAXPWRsxgu?usp=sharing)
 
 ## To-Do List
 
